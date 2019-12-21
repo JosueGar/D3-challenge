@@ -1,2 +1,2 @@
 # D3-challenge
-D3_data_journalism
+Data Journalism and D3
