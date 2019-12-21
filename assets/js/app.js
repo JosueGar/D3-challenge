@@ -367,7 +367,7 @@ function makeResponsive() {
             obesityLabel
               .classed("active", true)
               .classed("inactive", false);
-            incomeLabel
+            smokesLabel
               .classed("active", false)
               .classed("inactive", true);
           }
